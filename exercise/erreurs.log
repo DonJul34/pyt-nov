@@ -1,0 +1,17 @@
+2024-11-12 15:52:53,046 - ERROR relatif a fonction X - Erreur : Entr�e invalide, un nombre est requis
+Traceback (most recent call last):
+  File "D:\pyt-nov\exercise\flux.py", line 39, in <module>
+    nombre_division = float(input("Saississez un nombre pour diviser 100"))
+ValueError: could not convert string to float: 'Test'
+2024-11-12 16:16:19,986 - ERROR - Erreur de test avec des accents : éèàç
+2024-11-12 16:16:26,458 - ERROR - Erreur : Entrée invalide, un nombre est requis
+Traceback (most recent call last):
+  File "D:\pyt-nov\exercise\flux.py", line 47, in <module>
+    nombre_division = float(input("Saississez un nombre pour diviser 100"))
+ValueError: could not convert string to float: 'test'
+2024-11-12 16:26:24,674 - ERROR - Exécution directe : Ce message apparaît seulement si le script est exécuté directement.
+2024-11-12 16:26:57,249 - ERROR - Importation : Ce message apparaît lors de l'import dans un autre module.
+2024-11-12 17:20:47,294 - ERROR - Erreur de test avec des accents : éèàç
+2024-11-13 09:48:08,903 - ERROR - Importation : Ce message apparaît lors de l'import dans un autre module.
+2024-11-13 09:48:16,159 - ERROR - Importation : Ce message apparaît lors de l'import dans un autre module.
+2024-11-13 09:48:47,424 - ERROR - Importation : Ce message apparaît lors de l'import dans un autre module.
