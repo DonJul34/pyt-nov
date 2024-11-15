@@ -3,7 +3,6 @@
 import cgi
 import cgitb
 import logging
-from client import Client
 
 # Activer le débogage CGI
 cgitb.enable()
